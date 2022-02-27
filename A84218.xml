@@ -1,0 +1,490 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact relation of the tryall &amp; examination of John Morris, governour of Pontefract-Castle, at the assizes held at York: together with his speeches, prayers, and other passages immediately before his death, the 23. of Aug. 1649. Whereunto is added, the speech of Cornet Blackburne, executed at the same time.</title>
+            <author>Morris, John, 1617?-1649.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84218</idno>
+            <idno type="STC">Wing E3699</idno>
+            <idno type="STC">Thomason E572_27</idno>
+            <idno type="STC">ESTC R201952</idno>
+            <idno type="EEBO-CITATION">99862428</idno>
+            <idno type="PROQUEST">99862428</idno>
+            <idno type="VID">165385</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84218)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165385)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 88:E572[27])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact relation of the tryall &amp; examination of John Morris, governour of Pontefract-Castle, at the assizes held at York: together with his speeches, prayers, and other passages immediately before his death, the 23. of Aug. 1649. Whereunto is added, the speech of Cornet Blackburne, executed at the same time.</title>
+                  <author>Morris, John, 1617?-1649.</author>
+                  <author>Blackborne, Michael, d. 1649.</author>
+               </titleStmt>
+               <extent>[2], 6; 4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "7ber [i.e. September] 7th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Morris, John, 1617?-1649.</term>
+               <term>Executions and executioners --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Pontefract (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165385:1" rendition="simple:additions"/>
+            <p>AN EXACT RELATION OF THE TRYALL &amp; EXAMINATION OF <hi>JOHN MORRIS,</hi> Governour of <hi>Pontefract</hi>-Caſtle, At the Aſſizes held at <hi>York: Together with</hi> His Speeches, Prayers, and other paſſages immediately before his death, the 23. of <hi>Aug.</hi> 1649.</p>
+            <p>
+               <hi>Whereunto is added, The Speech of Cornet</hi> BLACKBURNE, <hi>Executed at the ſame time.</hi>
+            </p>
+            <p>Printed in the Yeare, 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:165385:2"/>
+            <head>An Account of the Paſſages concerning the Tryall of Col: <hi>IOHN MORRIS, and</hi> Cornet <hi>BLACKBURNE,</hi> at the Aſsizes at the Caſtle of <hi>York,</hi> before <hi>Iohn Puleſton</hi> and Baron <hi>Thorpe,</hi> Juſtices of Aſsizes, the <hi>16.</hi> of <hi>Auguſt,</hi> Anno Dom. <hi>1649.</hi>
+            </head>
+            <p>COlonel <hi>Morris</hi> being demanded to hold up his hand, refuſed, and the Indictment was read againſt him for Treaſon for leavying War a<g ref="char:EOLhyphen"/>gainſt the late King and the Parliament upon <hi>Stat. Ed.</hi> 5. The Court deſired him to plead <hi>Guilty</hi> or <hi>Not Guilty.</hi>
+            </p>
+            <sp>
+               <speaker>Col. Morris Anſ.</speaker>
+               <p>My Lords, under correction I conceive this Court hath not power to try me in this caſe, I being a Martiall man, I ought to be tryed by a Councel of War.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>Sir, What doe you ſay, Are you guilty or not guilty? This is the ſecond time you have been asked: Sir, if you will not anſwer the third time, we ſhall know what to doe, Are you guilty or Not guilty?</p>
+            </sp>
+            <sp>
+               <speaker>Col. <hi>Morris.</hi>
+               </speaker>
+               <p>My Lords, I ſtill conceive I ought not to be tryed here, if I have done any thing worthy of death, I appeale to a Martiall Court, to my Lo: <hi>Fairfax,</hi> Major Generall, or a generall Councel of War: You have not any preſident for it, either for you to try me in this way, or me to ſuffer by it.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>Are you guilty or not guilty? This is the third time.</p>
+            </sp>
+            <sp>
+               <speaker>Col. <hi>Morris.</hi>
+               </speaker>
+               <p>My Lords, if your Honours will force me to plead, I conceive I am not guilty.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>How will you be tryed?</p>
+            </sp>
+            <sp>
+               <speaker>Col. <hi>Morris.</hi>
+               </speaker>
+               <p>My Lords, I was never at any Bar before, I am ignorant herein.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>Tell him what to ſay. <stage>[<hi>Upon that, ſome neere him, tell him,</hi> By God and the Country.]</stage>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Col. <hi>Mor.</hi>
+               </speaker>
+               <p>
+                  <hi>By God and the Country.</hi> After that challenge is made for Col:
+<pb n="2" facs="tcp:165385:3"/>
+                  <hi>Morris</hi> to except againſt any of the Jury. <stage>[<hi>Maſter</hi> Brooke, <hi>a great man for the Cauſe, comes firſt retorned, to be ſworne as Fore-man of the Jury</hi>]</stage>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Col: <hi>Mor.</hi>
+               </speaker>
+               <p>My Lords, I except againſt this <hi>Brooke.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>Sir, he is ſworne, and you ſpeake too late.</p>
+            </sp>
+            <sp>
+               <speaker>Col: <hi>Mor.</hi>
+               </speaker>
+               <p>My Lord, I appeale to himſelfe, whether he be ſworne or no.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Brook.</hi>
+               </speaker>
+               <p>Sir, I am not to anſwer you, but the Court. My Lord, I did not kiſſe the Booke.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>Sir, that is no matter, it's but a Ceremony.</p>
+            </sp>
+            <sp>
+               <speaker>Col: <hi>Mor.</hi>
+               </speaker>
+               <p>My Lords, I beſeech your Honours that I may except againſt him, I know him, as well as I know my right hand, to be my Enemy.</p>
+            </sp>
+            <p>
+               <hi>Clark of aſſize.</hi> Sir, he is recorded ſworne, there is do diſputing againſt the Record.</p>
+            <sp>
+               <speaker>Col: <hi>Mor.</hi>
+               </speaker>
+               <p>My Lords, I muſt Submit to your Honours: after that Col: <hi>Morris</hi> challenges 16 Men, and my Lord <hi>Puleſton</hi> thinking Col: <hi>Morris</hi> tedious in excepting againſt ſo many, Anſwers, Sir, keep within your compaſſe, or I will give you ſuch a blow as will ſtrike off your head.</p>
+            </sp>
+            <sp>
+               <speaker>Col: <hi>Mor.</hi>
+               </speaker>
+               <p>My Lords, I deſire nothing but Juſtice, for by the Statute of 14 <hi>Hen.</hi> 7. fol. 19. I may lawfully challenge 35 men without ſhewing any cauſe to the contrary.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>It is granted, After a full Jury, the Indictment read, and Evidence for the State very full, that Col: <hi>Morris</hi> was Governour of <hi>Pontefract,</hi> which <hi>Morris</hi> being very Modeſt and Civill, did not contradict any thing, untill his time of anſwer.</p>
+            </sp>
+            <sp>
+               <speaker>Col: <hi>Mor.</hi>
+               </speaker>
+               <p>My Lords, I humbly deſire a Coppy of my Indictment, that I may know what to anſwer, I conceive I may pleade ſpeciall as well as Generall.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>Sirs, you cannot by the Law.</p>
+            </sp>
+            <sp>
+               <speaker>Col: <hi>Mor.</hi>
+               </speaker>
+               <p>My Lords, I conceive there is point of Law in it, and I hum<g ref="char:EOLhyphen"/>bly deſire to have Councell, for I conceive by the Law, being attainted for High Treaſon, I ought to have Councell by the Statute 1 <hi>Hell.</hi> 7. fol. 23.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>Sir, I tell you you cannot have it.</p>
+            </sp>
+            <sp>
+               <speaker>Col: <hi>Mor.</hi>
+               </speaker>
+               <p>Then my Lords I conceive I am not any way guilty to the Indictment, for Treaſon, My Lords, It is ſaid to be againſt the King, his Crowne, and againſt his Peace, whereby my Lords, I can make it appeare I have acted onely for the King, and nothing againſt him, which may appeare hereby by my Commiſſion. The Court looks upon it and Anſwers.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>Sirs, you are deceived, this is falſe, it is from the Prince.</p>
+            </sp>
+            <sp>
+               <speaker>Col: <hi>Mor.</hi>
+               </speaker>
+               <p>My Lords, It is very well knowne, my Lord <hi>Fairfax,</hi> hath his Commiſſion, derived from the Parliament, and upon that he grants Com<g ref="char:EOLhyphen"/>miſſion to his Officers, which is all one and the ſame. The Prince hath his from his Father, and I have mine from the Prince which is full. Power, he being Captain Generall of his Majeſties Forces.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>Sir, have you nothing elſe to ſay?</p>
+            </sp>
+            <sp>
+               <speaker>Col: <hi>Mor.</hi>
+               </speaker>
+               <p>My Lords, under Correction I conceive it is ſufficient, for by the ſame power, all Judges, Juſtices of Peace, your Lordſhips your Prede<g ref="char:EOLhyphen"/>ceſſors, and all other Officers, did act by the ſame power, and all proceſſe and
+<pb n="3" facs="tcp:165385:3"/>writs of Law, were acted, and Executed, in his name, and by his Authority.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>His power was not in him, but the Kingdome, for he was in truſt for the Kingdome, the Kings High-way, and the Kings Coyne being ſo called, is not his owne, but his Subjects, and his Naturall power, and Legall power, are different.</p>
+            </sp>
+            <sp>
+               <speaker>Col: <hi>Mor.</hi>
+               </speaker>
+               <p>My Lords, under Correction, I conceive his Legall and Perſonall power, are undeviſable, all one, and cannot be ſeperated.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>Sirs, all is one if the King bid me, kill a man, Is this a ſufficient Warrant for me to pleade? no Sir, it is unlawfull; Sir, have you no more?</p>
+            </sp>
+            <sp>
+               <speaker>Col: <hi>Mor.</hi>
+               </speaker>
+               <p>Sirs I beſeech your Honours give me leave, I am upon my Life.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>Speake what you will Sir, you ſhall be heard.</p>
+            </sp>
+            <sp>
+               <speaker>Col: <hi>Mor.</hi>
+               </speaker>
+               <p>Your ſervant my Lord, then my Lords I conceive I have acted nothing againſt the Parliament, for that which I acted, It was for the King, and ſince the aboliſhing of Regall power, I have not medled with any thing, againſt the Parliament, for that act was but inacted the 14 of <hi>Iuly</hi> laſt, and before that time and act of Aboliſhing Kingly-government, that Princely Palace which I kept by his Commiſſion was demolliſhed, my Lords, I beſeech your Honours, that my Commiſſion may be read, to give ſatisfaction to the Court.</p>
+            </sp>
+            <sp>
+               <speaker>My Lord <hi>Puleſton.</hi>
+               </speaker>
+               <p>Sir, it will doe you no good, you may as well ſhew a Commiſſion from the Pope, all is one.</p>
+            </sp>
+            <sp>
+               <speaker>Col: <hi>Mor.</hi>
+               </speaker>
+               <p>My Lords, I deſire your Lordſhips doe me that Juſtice.</p>
+            </sp>
+            <sp>
+               <speaker>My Lord <hi>Thorpe.</hi>
+               </speaker>
+               <p>For my part I am willing, if my Brother be not againſt it.</p>
+            </sp>
+            <sp>
+               <speaker>My Lord <hi>Puleſton.</hi>
+               </speaker>
+               <p>Sir, we held it for Law to be void, it is to no purpoſe.</p>
+            </sp>
+            <sp>
+               <speaker>Col: <hi>Mor.</hi>
+               </speaker>
+               <p>Then if your Lordſhips be not pleaſed to doe me that juſtice that it may be read, I deſire it may be reſtored me againe. <stage>[<hi>Upon that, Col:</hi> Morris <hi>received his Commiſſion unread.</hi>]</stage> My Lords, it ſeemeth ſtrange, that your Honours ſhould doe that which was never done the like before, never any of your Predeceſſors ever did the like, I wiſh it may not be to your owne and your friends wrong, that you make your ſelves preſidents of your acting, and my ſelfe of ſuffering. But my Lords, I doe not ſpeak for ſaving my own life, for <stage>(I thanke my God)</stage> I am prepared, and very willing to part with this lump of clay. I have had a large time of repentance, it being 22. weeks ſince my impriſonment; and I am ſorry for thoſe which are like to undergoe the ſame ſufferings, if your Lordſhips take away my life. And though I doe not ſpeak any way in glory, indeed at this preſent there is a cloud hanging over our heads, I deſire there may be a faire Sun-ſhine to diſpell it. And though there were a world of plots in the Kingdome when I took the Caſtle, there is not wanting the ſame now, onely the time is not yet come; and as I was to be the fire-brand to <hi>Scarborough,</hi> ſo he <stage>(meaning <hi>Bointon</hi>)</stage> to <hi>Tinmouth,</hi> and that to others; and though you take away my life, there will be others which will take up the Lintſtock to give fire, though I be gone.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>Sir, you have little hopes to talke of any fire to be given here, having received ſuch a totall rout in <hi>Ireland.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="4" facs="tcp:165385:4"/>
+               <speaker>Col: <hi>Mor.</hi>
+               </speaker>
+               <p>My Lords, I ſhould have been unwilling to have contradicted your late newes concerning <hi>Ireland;</hi> but ſince you have given me a hint of it<g ref="char:punc">▪</g> you muſt give me leave to let your Honours know, that I received Letters from the Marqueſſe of <hi>Ormond</hi> dated the 3. of <hi>Auguſt,</hi> and yours is but the 2. where<g ref="char:EOLhyphen"/>in he pleaſes to let me underſtand of the great care he hath of me, and that whatſoever ſhall befall me here, the like ſhall be to thoſe which he hath: Priſo<g ref="char:EOLhyphen"/>ners there, which <stage>(as he ſaith)</stage> are good ſtore. Therefore if your Lordſhips did not at all value my Perſon, yet methinks you ſhould have ſome care of it for your owne friends goods.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>Sir. have you no more to ſay?</p>
+            </sp>
+            <sp>
+               <speaker>Col: <hi>Mor:</hi>
+               </speaker>
+               <p>My Lords, ſtill I appeale to my Commiſſion, which I conceive is ſufficient to defend me withall in what I have done, notwithſtanding your power to the contrary.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>It is nothing at all, we have power to try you here.</p>
+            </sp>
+            <sp>
+               <speaker>Col: <hi>Mor.</hi>
+               </speaker>
+               <p>Then my Lords <stage>(under correction)</stage> Lay-men may as well be tryed at a Martiall Court: which if granted, thoſe excellent Acts of <hi>Magna Charta</hi> and the Petition of Right would be deſtroyed.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>But you are not looked upon here as a Soldier, we ſhall doe what in juſtice belongs us.</p>
+            </sp>
+            <sp>
+               <speaker>Col: <hi>Mor:</hi>
+               </speaker>
+               <p>My Lords, ſtill <stage>(under correction)</stage> I have taken the Oath of Al<g ref="char:EOLhyphen"/>legeance, and I conceive in that I was bound to doe as much as I did or have done, though I had not had any Commiſſion at all. And I beſeech your Lordſhips that you will doe me juſtice, and not incline to the right hand of affection, or the left of hatred, but to have an eare for the accuſed as well as for the accuſer: Neither have I acted any thing contrary to my Allegeance, which Allegeance I was as willing to pay to the Sonne, as well as to the Fa<g ref="char:EOLhyphen"/>ther. Now for my Allegeance I owe to any perſon or authority, but to theſe I know none.</p>
+            </sp>
+            <sp>
+               <speaker>My Lo: <hi>Thorpe.</hi>
+               </speaker>
+               <p>Sir, if you have any thing elſe to ſay, ſpeak for your ſelfe, for this is not much to the purpoſe.</p>
+            </sp>
+            <sp>
+               <speaker>Col: <hi>Mor:</hi>
+               </speaker>
+               <p>My Lo: tis true, ſince you have rejected that authority which I acted by, I might as well have held my tongue at the firſt, and ſpake nothing, were it not for the ſatisfaction of the hearers; but if it muſt be ſo that you will make me a preſident, you muſt doe with me as you did with my deare and honoured Lord, <stage>[meaning my Lo: of Strafford]</stage> making an Act for the future, that this my ſuffering ſhall not be a preſident to any Soldiers hereafter. Be<g ref="char:EOLhyphen"/>ſides my Lo: this ſame Statute which you alledge againſt me is, if that any ſhall act againſt the King, tis Treaſon, which I have not done; but contrary, for him, and by his authority. And there is an Act of 11 <hi>Hen.</hi> 7. <hi>cap.</hi> 1. That <hi>whoſoever they are that ſhall aid or aſſiſt the King at home or abroad, ſhall not be que<g ref="char:EOLhyphen"/>ſtioned at all.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>My Lo: <hi>Thorpe.</hi>
+               </speaker>
+               <p>Tis true Sir, but <hi>Hen.</hi> 7. then ſtood in a fickle condition, and being an Uſurper, made that Act for his owne ſafety; ſometimes Duke of <hi>Yorke,</hi> ruling ſometimes Duke of <hi>Lancaſter,</hi> and others contending, therefore it was enacted.</p>
+            </sp>
+            <sp>
+               <pb n="5" facs="tcp:165385:4"/>
+               <speaker>Col: <hi>Mor:</hi> My Lo:</speaker>
+               <p>But this ſame Act of <hi>Hen.</hi> 7. was later then that of <hi>Ed:</hi> 3. which you have laid againſt me, and as yet was never repealed, untill this laſt Act of 14 of <hi>July,</hi> before which time I had delivered up the place.</p>
+            </sp>
+            <sp>
+               <speaker>My Lo: <hi>Thorpe.</hi>
+               </speaker>
+               <p>Well Sir, it ſeemes you have not any more. What have you to ſay, <hi>Blackburne?</hi> After he had anſwered, the Court commands Irons to be laid on them.</p>
+            </sp>
+            <sp>
+               <speaker>Col: <hi>Morris.</hi> My Lo:</speaker>
+               <p>I humbly deſire that we may not be mannacled; if you make any doubt of us, that we may have a greater guard upon us.</p>
+            </sp>
+            <sp>
+               <speaker>My Lo: <hi>Puleston.</hi>
+               </speaker>
+               <p>Sir, you that have made ſuch attempts through ſuch guards as were of purpoſe ſet to receive you, ought to be lookt to now. Yet if Maſter Sheriffe pleaſe, I am content.</p>
+            </sp>
+            <sp>
+               <speaker>Col: <hi>Mor.</hi>
+               </speaker>
+               <p>Maſter Sheriffe, I deſire that this mannacling may be forborne: if you pleaſe to clap a guard of 100 men upon us, I ſhall pay for it. This is not onely a diſgrace to me, but in generall to all Soldiers, which doth more trou<g ref="char:EOLhyphen"/>ble me then the loſſe of my life. Maſter Sheriffe what doe you ſay?</p>
+            </sp>
+            <sp>
+               <speaker>Maſter Shreiffe.</speaker>
+               <p>Sir, Irons are the ſafeſt guards.</p>
+            </sp>
+            <sp>
+               <speaker>Col: <hi>Mor.</hi>
+               </speaker>
+               <p>My Lords, hitherto <stage>(I thanke God)</stage> I have not done any un<g ref="char:EOLhyphen"/>ſouldiary or baſe act, and to begin now I will not doe it to ſave my life, and though you looke upon me <hi>Sampſon</hi>-wiſe, I vow to God, I would not touch the pillars though it lay in my power, to injure you, therefore I ſtill begg pardon that I may not be mannaccled.</p>
+            </sp>
+            <sp>
+               <speaker>Under Shreiffe.</speaker>
+               <p>Come Sir, it cannot be helpt, we are commanded.</p>
+            </sp>
+            <sp>
+               <speaker>Col: <hi>Mor.</hi>
+               </speaker>
+               <p>My Lords, I beſeech you grant me this favour, it is not my life I begg, but to forbeare this manaccling, which ſhame, and diſhonour, doth more trouble me, then the loſſe of my Life.</p>
+            </sp>
+            <sp>
+               <speaker>Under Shreiffe.</speaker>
+               <p>It muſt be done, and upon that did it, and carried him away, After dinner they were brought againe, and the Jury brought in their verdict, who found them both guilty of Treaſon.</p>
+            </sp>
+            <sp>
+               <speaker>Col: <hi>Mor.</hi>
+               </speaker>
+               <p>My Lord, I am here found guilty of Treaſon by that villaine <hi>Brooke,</hi> whom I know to be mine enemy, and the firſt man that I did except againſt: in which I conceive I have received hard meaſure, for none could have found me guilty of Treaſon, had they gone according to the Letter of the Law, which they did not.</p>
+            </sp>
+            <sp>
+               <speaker>My Lo:</speaker>
+               <p>
+                  <hi>Puleſton.</hi> Sir, you ſpeake too late, you are not to diſpute it now.</p>
+            </sp>
+            <sp>
+               <speaker>Col: <hi>Mor.</hi>
+               </speaker>
+               <p>Neither would I, my Lord, if this were a Court of Chancery, but being a Court of Law, bound up in expreſſe words and Letter, I conceive I ought to diſpute it, and my buſineſſe better weighed.</p>
+            </sp>
+            <sp>
+               <speaker>My Lo: <hi>Puleſton.</hi>
+               </speaker>
+               <p>Well Sir, you are found guilty, therefore hold your peace.</p>
+            </sp>
+            <sp>
+               <speaker>Col: <hi>Mor.</hi>
+               </speaker>
+               <p>If I muſt ſuffer, I receive it with all alacrity and cheerfulneſſe, and I thanke God I ſhall dye for a good cauſe, and the teſtimony of a good Conſcience, for which had I as many lives as there are Stars in the Firmament, I would ſacrifice them all for the ſame.</p>
+            </sp>
+            <sp>
+               <pb n="6" facs="tcp:165385:5"/>
+               <speaker>Court.</speaker>
+               <p>Sheriffe, Gaoler take them away, or Ile take you away.</p>
+            </sp>
+            <sp>
+               <speaker>Col: <hi>Mor.</hi>
+               </speaker>
+               <p>Well I beſeech God bleſſe King <hi>CHARLES,</hi> and fight for all thoſe that fight for him, or have fought for him.</p>
+            </sp>
+         </div>
+         <div type="confession">
+            <pb n="1" facs="tcp:165385:5"/>
+            <head>The Confeſſion of <hi>Collonell John Mor<g ref="char:EOLhyphen"/>ris</hi> and ſome paſſages betwixt the priſon and place of Execution.</head>
+            <p>VVHen he was brought out of priſon looking upon the Sledge that was there ſet for him, lifting up his eyes to Heaven knocking upon his breaſt, he ſaid, I am as willing to go to my death, as to put off my doublet to go to bed, I deſpiſe the ſhame as well as the Croſſe, I know I am going to a joyfull place; with many like expreſſions.</p>
+            <p>When the Poſt met him about St. <hi>Jame</hi>'s Church, that was ſent to the Parliament to Emediate for a repreive; and told him he could not prevaile in it, he ſaid; S<hi rend="sup">r</hi> I pray God reward you for your pains, I hope and am well aſſured to finde a better pardon then any they can give, my hope is not in man but in the living God.</p>
+            <p>At the place of execution he made this profeſſion of his faith, his breeding, his cauſe he had fought in.</p>
+            <p>Gentlemen, firſt I was bred up in the true Proteſtant Religion: having my education and breeding, from that honoured houſe my Deare Lord and Maſter <hi>Strafford,</hi> which place I dare boldly ſay, was as well governed and ruled as ever any yet was before it, I much doubt, better then any will be after it; unleſſe it pleaſe God to put a period to theſe diſtracted times: this Faith and Religion I ſay I have been bred in, and I thank God I have hitherto lived in, without the leaſt wavering, and now I am reſolved by Gods aſſiſtance to dye in.</p>
+            <p>Thoſe paines are nothing; if compared to thoſe dolours and pains which Jeſus Chriſt our Saviour have ſuffered for us: when in a bloo<g ref="char:EOLhyphen"/>dy ſweat he indured the wrath of God the pains of hell and the cur<g ref="char:EOLhyphen"/>ſed and ſhamefull death which was due to our ſinnes; Therefore I praiſe the Lord that I am not plagued with farre m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re grievous puniſhment, that the like hath befaln others, who undoubtedly are moſt glorious and bleſſed Saints with Chriſt in heaven, It is the Lords affliction, and who will not take any affliction in good part
+<pb n="2" facs="tcp:165385:6"/>when it comes from the hand of God, and what ſhall we receive good from the hands of God and not receive evill, and though I de<g ref="char:EOLhyphen"/>ſire as I am carnall that this cup may depart from me, yet not my will but thy will be done: Death brings unto the godly an end of ſinning, and of all miſeries due unto ſin, ſo that after death there ſhall be no more ſorrow nor cry or paine, for God ſhall wipe away all tears from our eyes, by death our ſouls ſhall be delivered from thraldome, and this Corruptible body ſhall put on incorruption, and this mortall im<g ref="char:EOLhyphen"/>mortality.</p>
+            <p>Therefore bleſſed are they that are delivered out of ſo vilde a world, and freed from ſuch a body of bondage and corruption, the ſoul ſhall enjoy immediate Communion with God in everlaſting bliſſe and glory, it takes us from the miſeries of this world, and ſo<g ref="char:EOLhyphen"/>ciety of ſinners, to the city of the living God, the Celeſtiall Jeruſalem.</p>
+            <p>I bleſſe God I am thought worthy to ſuffer for his Name, and for ſo good a cauſe, and if I had a thouſand lives I would willingly lay them down for the cauſe of my King the Lords <hi>Anointed;</hi> the Scri<g ref="char:EOLhyphen"/>pture commands us to feare God and honour the King, to be ſubject to every Ordinance of man, for the Lords ſake, whether to the King as ſupreame or to thoſe that are in Authority under him: I have been alwayes faithfull to my Truſt; and though I have beene moſt baſely accuſed, for betraying <hi>Leverpool,</hi> yet I take God to witneſſe it is a moſt falſe aſperſion, for I was then ſick in my bed and knew not of the delivering of it, till the Officers and Souldiers had done it without my conſent, and then I was carried priſoner to Sr <hi>John Mel<g ref="char:EOLhyphen"/>drum,</hi> afterwards I came down into the countrey, and ſeeing I could not live quietly at home, I was perſwaded by Collonell <hi>Forbes,</hi> Collo<g ref="char:EOLhyphen"/>nell <hi>Overton,</hi> Lievetenant Collonell <hi>Fairfax</hi> whom I took for my good friends, to march in their Troopes, which I did, but with in<g ref="char:EOLhyphen"/>tention ſtill to doe my King the beſt ſervice when occaſion was and ſo I did; and I pray God to turne the hearts of all the ſouldiers unto their lawfull Soveraigne that this land may enjoy Peace, which till then it will never doe: and though thou killeſt me yet will I put my truſt in thee, wherefore I truſt in God he will not fail me nor for<g ref="char:EOLhyphen"/>ſake me, Then he took his Bible and read divers Pſalmes fit for his own occaſion and conſolation, and then put up divers prayers, ſome publickly and ſome privately, the publicke was this which fol<g ref="char:EOLhyphen"/>lowes;</p>
+            <div type="prayer">
+               <pb n="3" facs="tcp:165385:6"/>
+               <head>A Prayer.</head>
+               <p>WElcome bleſſed hour, the period of my Pilgrimage, the term of my Bondage, the end of my cares, the cloſe of my ſighs, the bound of my travels, the goal of my race, and the heaven of my hopes; I have fought a long fight in much weakneſſe, I have fini<g ref="char:EOLhyphen"/>ſhed my courſe though in great faintneſſe, and the Crown of my joy is, that through the ſtrength of thy grace, I have both kept the true faith, and have fought for my Kings, the Lords Annointeds cauſe without any wavering, for which, and in which I die; I doe willing<g ref="char:EOLhyphen"/>ly reſign my fleſh, I deſpiſe the World, and I defie the Devill, who hath no part nor ſhare in me; and now what is my hope, my hope Lord Jeſu is even in thee, for I know that thou my Redeemer liv<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt, and that thou wilt immediatly receive my Soul, and raiſe up my bo<g ref="char:EOLhyphen"/>dy alſo at the laſt Day, and I ſhall ſee thee in my fleſh with theſe eies and none other: And now O Lord, let thy Spirit of comfort help mine infirmities, and make ſupplication for me with ſighs and groans that cannot be expreſſed; I ſubmit my ſelf wholly to thy will, I com<g ref="char:EOLhyphen"/>mit my Soul to thee as my faithfull Redeemer, who haſt bought it with thy moſt precious Blood, I conf<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſe to all the world, I know no name under heaven by which I may be ſaved, but thine my Jeſu, my Saviour, I renounce all confidence in any merits ſave thine, I thank<g ref="char:EOLhyphen"/>fully acknowledge all thy bleſſings, I unfainedly bewail all my ſins, I ſtedfaſtly beleeve all thy promiſes, I heartily forgive all my Enemies, I willingly leave all my Friends, I utterly loath all earthly com<g ref="char:EOLhyphen"/>forts, and I entirely long for thy coming, Come Lord Jeſus, come quickly, Lord Jeſus receive my Spirit.</p>
+               <p>The Private were to himſelf his hat being before his eyes; after this he put up divers ſhort Ejaculations: As, I know my Redeemer liveth, Father unto thy hands I commend my ſpirit, for thou haſt redeemed it, O God, thou God of truth, Lord Jeſus receive my Spirit, and ma<g ref="char:EOLhyphen"/>ny of the like, and ſo he yeelded to Death.</p>
+            </div>
+         </div>
+         <div type="speech">
+            <pb n="4" facs="tcp:165385:7"/>
+            <head>The Speech of Cornet <hi>Michael Blackburn</hi> immediately before his Death, <hi>Auguſt 23. 1049.</hi>
+            </head>
+            <p>
+               <hi>It is expected I ſhould ſay ſomething, and indeed it is my deſire to ſay ſome<g ref="char:EOLhyphen"/>thing and but a little,</hi>
+            </p>
+            <p>I Am not a Gentleman by birth, but my Parents are of an honeſt quality and condition, I was brought up in the Proteſtant Reli<g ref="char:EOLhyphen"/>gion, and in that Religion I have lived, and in that I now die; I have ſome five or ſix yeers ſince ingaged in this War, wherein I had no other end or Intention but to doe my King true and faithfull ſervice, according to my duty and the dictate of my Conſcience, I have not done ſo much ſervice as I deſired, but I have been alwayes faithfull to him, and wiſh I could have done him more; and for his ſon the King that now is, I wonder any man of this Kingdom ſhould have the boldneſs or impudencie to lift up his hand againſt him, to keep him from his Crown whereof he is Heir apparent, and hath as good right and title to it by his Birthright, as any man living hath of his Inheritance or Poſſeſſion: <hi>I pray God bleſſe him, forgive all my Enemies, and Lord Jeſus receive my Spirit.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
